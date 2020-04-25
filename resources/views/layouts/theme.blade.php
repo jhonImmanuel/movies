@@ -46,7 +46,7 @@
                 </ul></div></div></nav>
     <main class="page contact-us-page" style="height:auto;">
         <div class="container" id="info-col">
-            <div class="row flex-row info-row">
+            {{-- <div class="row flex-row info-row">
                 <div class="col-3 col-md-3 offset-0 m-auto" data-bs-hover-animate="bounce" id="info-col-box">
                 <img class="float-left" src="{{ URL::to('images/icons/placeholder.png') }}" style="padding:25px;padding-left:25px;padding-right:7px;">
                 <p style="font-family:'Abril Fatface', cursive;padding-top:24px;margin-bottom:0px;">Website Street 2019</p>
@@ -64,7 +64,7 @@
                 <p style="font-family:'Abril Fatface', cursive;padding-top:24px;margin-bottom:0px;">+91 999-888-777</p>
                 <p style="font-family:'Abhaya Libre', serif;color:rgb(54,54,54);font-size:20px;margin:0px;">&nbsp;Mon - Set 8:00-8:00</p>
                 </div>
-            </div>
+            </div> --}}
         </div></main>
     <div class="row block-border" id="bborder">
 <div class="col d-md-none d-lg-none" style="background-color:#000000;height:45px;"></div></div>
